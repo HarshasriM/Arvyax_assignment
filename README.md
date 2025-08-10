@@ -23,8 +23,8 @@ API endpoints:
 2. Install deps: `npm install`
 3. Run dev: `npm run dev`
    
-This is my backend url deployed on render
+## This is my backend url deployed on render
 https://arvyax-backend-g1b3.onrender.com/api
 
-This is my frontend url deployed in vercel
+## This is my frontend url deployed in vercel
 https://arvyax-assignment-weld.vercel.app/
